@@ -1,4 +1,4 @@
-# IA-assistant
+# Node-RAG-Starter
 
 Um template pronto para uso que implementa o padrão RAG (Retrieval-Augmented Generation). Crie chatbots e assistentes de IA que respondem com base em sua própria base de conhecimento de forma rápida e simples.
 
@@ -23,8 +23,8 @@ Um template pronto para uso que implementa o padrão RAG (Retrieval-Augmented Ge
 ### 1️⃣ Clone o repositório:
 
 ```sh
- git clone https://github.com/RaphaVBueno/IA-assistant.git
- cd IA-assistent
+ git clone https://github.com/RaphaVBueno/Node-RAG-Starter
+ cd Node-RAG-Starter
 ```
 
 ### 2️⃣ Instale as dependências:
@@ -70,4 +70,3 @@ Este projeto está licenciado sob a MIT License
 ---
 
 Feito por [Raphael V. Bueno](https://github.com/RaphaVBueno)
-# Node-RAG-Starter
